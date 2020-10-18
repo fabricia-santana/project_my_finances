@@ -1,0 +1,9 @@
+
+*.jar
+myfinances/.mvn/wrapper/maven-wrapper.properties
+myfinances/mvnw
+myfinances/.mvn/wrapper/MavenWrapperDownloader.java
+myfinances/mvnw.cmd
+myfinances/src/main/java/META-INF/MANIFEST.MF
+*.jar
+myfinances/.mvn/wrapper/maven-wrapper.jar
